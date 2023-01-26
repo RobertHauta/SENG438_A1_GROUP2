@@ -50,7 +50,7 @@ performed as a group, following the test suite provided in Appendix C of the lab
 all recorded defects will be re-tested to verify they have been fixed. If bugs persist, they will
 be reported and attributed to the new version using the defect tracking system.
 
-Exploratory testing is testing that attempts to create realistic scenarios may encouter. Rather than
+Exploratory testing is testing that attempts to create realistic scenarios the system may encouter. Rather than
 developing a testing plan, testers will probe the system and execute steps in an iterative manner.
 The goal is to create a human-realistic scenario.
 
