@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 2      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Jana                |   
+| Robert              |   
+| Ernest               |   
+| Joshua                |   
 
 
 **Table of Contents**
@@ -33,8 +33,29 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+As a group in SENG 438 Lab 1, we will familiarize ourselves with three simple testing strategies, 
+as well as concepts such as the system under test (SUT) and defect tracking systems.
+Firstly, general exploration of the SUT and defect tracking will be performed. Each member will
+understand the high level requirements of the software (Appendix B) so that meaningful testing can be done.
+Secondly, members will learn how to right detailed and effective bug reports.
+
+The testing methods to be used are:
+    1. Exploratory (Manual Non-Scripted) Testing
+    2. Manual Scripted Testing
+    3. Regression Testing (verification of Defect Fixes)
+
+The exploratory testing will be performed in pairs within the group. In each pair, one student will
+perform tests while the other analyzes and records the results. Manual scripted testing will be 
+performed as a group, following the test suite provided in Appendix C of the lab document. Finally,
+all recorded defects will be re-tested to verify they have been fixed. If bugs persist, they will
+be reported and attributed to the new version using the defect tracking system.
+
+Exploratory testing is testing that attempts to create realistic scenarios may encouter. Rather than
+developing a testing plan, testers will probe the system and execute steps in an iterative manner.
+The goal is to create a human-realistic scenario.
+
+Manual scripted testing follows a strict set of instructions developed by the tester. This allows a detailed 
+and thorough evaluation of all system functionalities.
 
 # High-level description of the exploratory testing plan
 
