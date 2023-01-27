@@ -90,7 +90,12 @@ of the ATM an intuitive and standardized process.
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Overall, our testing experiance in pairs was good because we could quickly and effectively 
+work together with one person testing for bugs while another reported them in Azure. Azure
+was a very good bug defect reporting program which allowed us to easily report the bugs we found
+as well as collaborate together in finding them as it was very easy to see everything other people reported.
+Working together in two seperate pairs helped us find more bugs as the different pairs had different ways
+of finding the bugs which resulted in us finding lots of bugs.
 
 # How the pair testing was managed and team work/effort was divided 
 
