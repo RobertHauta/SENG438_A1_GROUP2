@@ -99,7 +99,13 @@ of finding the bugs which resulted in us finding lots of bugs.
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+During the exploratory testing phase we split into pairs consisting of Ernest and Jana as one and Robert and Josh as 
+the other. A 30 minute timer was set during that time each pair independently went through version 1.0 and reported 
+any bugs discovered during that time. At the end of the 30 minutes each pair compared bugs. Moving into manual testing, 
+Robert shared his screen and went through the 40 use cases while Jana, Ernest and Josh documented any bugs discovered. 
+Finally, during the regression testing a similar approach to the manual testing was done. Robert shared his screen and 
+tested all bugs reported in the other two phases while the others updated the bug report accordingly. As well as all 40 
+use cases was also ran through again during regression to determine if any new bugs were made.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
