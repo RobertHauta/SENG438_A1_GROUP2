@@ -109,7 +109,7 @@ use cases was also ran through again during regression to determine if any new b
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+There have been a few issues that we encountered. One of the difficulties was that it was hard to combine the reports of the two pairs of groups in the exploratory phase as there was overlap as we added the bugs. It was also hard to find the bugs that were repeated twice. We also had difficulty as a group getting started with Azure as we did not initially know how to report bugs. We also had difficulty sharing one board with the rest of the team members. Another challenge is that some of us had difficulty getting started with Github and simultaneously working on one file. Some of the lessons learned are that we now know how to effectively use Github and Azure for future labs. Also, we learned how to report bugs. Another lesson learned is that we know how to find a bug in a system.
 
 # Comments/feedback on the lab and lab document itself
 
