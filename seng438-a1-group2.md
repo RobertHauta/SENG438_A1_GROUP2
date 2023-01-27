@@ -59,7 +59,12 @@ and thorough evaluation of all system functionalities.
 
 # High-level description of the exploratory testing plan
 
-Text…
+The pair that was made up of Ernest and Jana were part of decided to go for a more general approach to the exploratory
+testing. Over the half-hour we tested each function a little bit so as to have time to test all of the 
+funcionality. We tested each funcionality in the way a user would normally interact with the system, such as
+withdrawing/depositing a normal amount of cash, transfering between valid accounts, and checking the balance
+of existing accounts tied to the card. We also tested how the system would behave if the user incorrectly entered
+their pin by accident.
 
 # Comparison of exploratory and manual functional testing
 
